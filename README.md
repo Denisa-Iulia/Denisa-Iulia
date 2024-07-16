@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Denisa!</h1>
 <p>A student passionate about all-things related to technology!</p>
 
+- 🔭 My most recent project is [Devabos Chat Bot](https://github.com/THD-AI-2023/Devablos-Project-V2)
+
+- 💬 Ask me about **C++, Python**
+
+- 📫 How to reach me **vaidasigandenisa840@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/denisa-iulia-vaidasigan-822542317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/denisa-iulia-vaidasigan-822542317" height="30" width="40" /></a>
