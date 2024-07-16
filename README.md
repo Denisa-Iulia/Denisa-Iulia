@@ -3,7 +3,7 @@
 
 - 🔭 My most recent project is [Devabos Chat Bot](https://github.com/THD-AI-2023/Devablos-Project-V2)
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, Python, Linux**
 
 - 📫 How to reach me **vaidasigandenisa840@gmail.com**
 
