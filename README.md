@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denisa!</h1>
 <p>A student passionate about all-things related to technology!</p>
 
-- 🔭 My most recent project is [Devabos Chat Bot](https://github.com/THD-AI-2023/Devablos-Project-V2)
+- 🔭 My most recent project is [Devabos Chat Bot](https://github.com/THD-AI-2023/Devablos-Project-V2), [DiaPredictor](https://github.com/FaresM7/DiaPredictor)
 
 - 💬 Ask me about **C++, Python, Linux**
 
