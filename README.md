@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denisa!</h1>
 <p>A student passionate about all-things related to technology!</p>
 
-- 🔭 My most recent projects are [Devabos Chat Bot](https://github.com/THD-AI-2023/Devablos-Project-V2), [DiaPredictor](https://github.com/FaresM7/DiaPredictor)
+- 🔭 My most recent projects are [Random Iceberg](https://github.com/THD-AI-2023/Devablos-Project-V2](https://github.com/random-iceberg), [Poultry and Egg Detector](https://github.com/shafwanur/thd-ss25-cv-project)
 
 - 💬 Ask me about **C++, Python, Linux**
 
